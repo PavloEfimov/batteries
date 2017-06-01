@@ -1,0 +1,98 @@
+.red-first {
+    display: inline-block;
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    border-left: solid black;
+    border-top: solid black;
+    border-bottom: solid black;
+}
+.red-second {
+    display: inline-block;
+    background-color: white;
+    width: 90px;
+    height: 50px;
+    margin: 0 0 0 -5px;
+    border-right: solid black;
+    border-top: solid black;
+    border-bottom: solid black;
+}
+.red-third {
+    display: inline-block;
+    height: 20px;
+    width: 10px;
+    background-color: black;
+    line-height: 50px;
+    margin: 0 0 16px -4px;
+}
+.red{
+
+    width: 170px;
+    height: 50px;
+}
+
+.yellow-first {
+    display: inline-block;
+    background-color: yellow;
+    width: 100px;
+    height: 50px;
+    border-left: solid black;
+    border-top: solid black;
+    border-bottom: solid black;
+}
+.yellow-second {
+    display: inline-block;
+    background-color: white;
+    width: 40px;
+    height: 50px;
+    margin: 0 0 0 -5px;
+    border-right: solid black;
+    border-top: solid black;
+    border-bottom: solid black;
+}
+.yellow-third {
+    display: inline-block;
+    height: 20px;
+    width: 10px;
+    background-color: black;
+    line-height: 50px;
+    margin: 0 0 16px -4px;
+}
+.yellow{
+
+	width: 170px;
+	height: 50px;
+}
+
+.green-first {
+    display: inline-block;
+    background-color: green;
+    width: 100px;
+    height: 50px;
+    border-left: solid black;
+    border-top: solid black;
+    border-bottom: solid black;
+}
+.green-second {
+    display: inline-block;
+    background-color: green;
+    width: 40px;
+    height: 50px;
+    margin: 0 0 0 -5px;
+    border-right: solid black;
+    border-top: solid black;
+    border-bottom: solid black;
+}
+.green-third {
+    display: inline-block;
+    height: 20px;
+    width: 10px;
+    background-color: black;
+    line-height: 50px;
+    margin: 0 0 16px -4px;
+}
+.green{
+
+    width: 170px;
+    height: 50px;
+}
